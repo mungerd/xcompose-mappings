@@ -1,7 +1,8 @@
 xcompose-mappings
 =================
 
-XCompose mappings for unicode input
+XCompose mappings for unicode input, especially useful for unicode LaTeX input with XeTeX or LuaTeX.
+
 
 ## How to use
 
