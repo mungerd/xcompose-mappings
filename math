@@ -1,0 +1,62 @@
+
+<Multi_key> <m> <A>			: "∀"
+<Multi_key> <m> <E>			: "∃"
+<Multi_key> <m> <d>			: "∂"
+<Multi_key> <slash> <m> <E>		: "∄"
+<Multi_key> <m> <I>			: "∫"
+<Multi_key> <m> <P>			: "∏"
+<Multi_key> <m> <S>			: "∑"
+<Multi_key> <m> <minus>			: "−"
+<Multi_key> <m> <less>			: "⟨"
+<Multi_key> <m> <greater>		: "⟩"
+<Multi_key> <bar> <bar>			: "‖"
+<Multi_key> <8> <period>		: "∝"
+<Multi_key> <bar> <apostrophe>		: "⌈"
+<Multi_key> <apostrophe> <bar>		: "⌉"
+<Multi_key> <bar> <underscore>		: "⌊"
+<Multi_key> <underscore> <bar>		: "⌋"
+
+#
+# Miscellaneous
+#
+<Multi_key> <bar> <minus> <greater>	: "↦"
+<Multi_key> <equal> <greater>		: "⇒"
+<Multi_key> <less> <colon> <greater>	: "⇔"
+<Multi_key> <period> <comma>		: "‥"
+<Multi_key> <m> <period>		: "⋅"
+<Multi_key> <c> <period> <period>	: "⋯"
+<Multi_key> <v> <period> <period>	: "⋮"
+
+
+#
+# Binary operators
+#
+<Multi_key> <asciitilde> <equal>	: "≃"
+<Multi_key> <asciitilde> <asciitilde>	: "≈"
+<Multi_key> <minus> <equal>		: "≡"
+<Multi_key> <slash> <equal>		: "≠"
+<Multi_key> <less> <less>		: "≪"
+<Multi_key> <greater> <greater>		: "≫"
+
+<Multi_key> <o> <plus>			: "⊕"
+<Multi_key> <o> <x>			: "⊗"
+<Multi_key> <o> <period>		: "⊙"
+<Multi_key> <o> <minus>			: "⊖"
+<Multi_key> <o> <slash>			: "⊘"
+<Multi_key> <o> <asterisk>		: "⊛"
+
+#
+# Set operators
+#
+<Multi_key> <s> <e>			: "∈"
+<Multi_key> <slash> <s> <e>		: "∉"
+<Multi_key> <s> <n>			: "∪"
+<Multi_key> <s> <u>			: "∩"
+<Multi_key> <s> <minus>			: "⧵"
+<Multi_key> <s> <U>			: "⋂"
+<Multi_key> <s> <N>			: "⋃"
+<Multi_key> <s> <c>			: "⊂"
+<Multi_key> <s> <C>			: "⊆"
+<Multi_key> <slash> <s> <c>		: "⊄"
+<Multi_key> <slash> <s> <C>		: "⊈"
+<Multi_key> <s> <0>			: "∅"

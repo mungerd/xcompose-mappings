@@ -1,0 +1,5 @@
+#
+# Arrows
+#
+<Multi_key> <bar> <greater>		: "‣"
+<Multi_key> <minus> <bar> <greater>	: "➞"
