@@ -28,6 +28,15 @@ Then, put these lines in your `~/.XCompose` file:
 where `<prefix>` is the path to which you have cloned this repository.
 
 
-To use PrintScreen as your compose key, run:
+To use `PrintScreen` as your compose key, run:
 
     setxkbmap -option 'compose:prsc'
+
+To see all supported compose options, type:
+
+    grep "compose:" /usr/share/X11/xkb/rules/base.lst
+
+To keep using the `Right Alt` key as third-level shift but use `Shift + Right
+Alt` as the compose key, run:
+
+    setxkbmap -option lv3:ralt_switch_multikey
