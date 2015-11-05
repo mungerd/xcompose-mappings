@@ -3,3 +3,4 @@
 #
 <Multi_key> <bar> <greater>		: "‣"
 <Multi_key> <minus> <bar> <greater>	: "➞"
+<Multi_key> <rparen> <greater>          : "➤"
