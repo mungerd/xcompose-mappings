@@ -31,6 +31,7 @@
 #
 # Binary operators
 #
+<Multi_key> <asciitilde> <period>	: "∼"
 <Multi_key> <asciitilde> <equal>	: "≃"
 <Multi_key> <asciitilde> <asciitilde>	: "≈"
 <Multi_key> <minus> <equal>		: "≡"
