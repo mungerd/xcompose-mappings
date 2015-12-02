@@ -38,6 +38,8 @@
 <Multi_key> <slash> <equal>		: "≠"
 <Multi_key> <less> <less>		: "≪"
 <Multi_key> <greater> <greater>		: "≫"
+<Multi_key> <asciitilde> <less>    : "≲"
+<Multi_key> <asciitilde> <greater> : "≳"
 
 <Multi_key> <o> <plus>			: "⊕"
 <Multi_key> <o> <x>			: "⊗"
