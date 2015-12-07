@@ -40,3 +40,8 @@ To keep using the `Right Alt` key as third-level shift but use `Shift + Right
 Alt` as the compose key, run:
 
     setxkbmap -option lv3:ralt_switch_multikey
+
+GNOME users may need to run:
+
+    gsettings set org.gnome.desktop.interface gtk-im-module "uim"
+    gsettings set org.gnome.desktop.input-sources xkb-options "['compose:sclk']"
